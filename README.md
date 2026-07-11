@@ -224,6 +224,12 @@ My goal is to build secure, scalable, and intelligent systems that solve real-wo
 - Smart Cities
 - Civil Engineering Technology
 
+- # 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ewemade-enabulele/
+- Instagram : imadeofficial1
+- Email :ewemadeen@gmail.com
+- Whataspp: +234 808 824 2035
+
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
