@@ -16,7 +16,7 @@ My goal is to build secure, scalable, and intelligent systems that solve real-wo
 - 🔐 Cybersecurity Enthusiast
 - 🐧 Linux & Systems Administrator
 - ☁️ Cloud & DevOps Engineer
-- 🏗️ Civil Engineer (B.Eng & M.Eng)
+- 🏗️ Civil Engineer (B.Eng )
 - 🗄️ Database Developer & Administrator
 - 🌍 Based in Abuja, Nigeria
 - 💼 Founder of multiple technology and engineering ventures
