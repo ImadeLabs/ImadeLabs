@@ -13,7 +13,7 @@ My goal is to build secure, scalable, and intelligent systems that solve real-wo
 # 🚀 About Me
 
 - 💻 Full Stack Software Engineer
-- 🔐 Cybersecurity Enthusiast
+- 🔐 Cybersecurity Enthusiast, QA|TEST AUTOMATION
 - 🐧 Linux & Systems Administrator
 - ☁️ Cloud & DevOps Engineer
 - 🏗️ Civil Engineer (B.Eng )
@@ -48,6 +48,8 @@ My goal is to build secure, scalable, and intelligent systems that solve real-wo
 - Clean Architecture
 - CQRS
 - MediatR
+- Linux
+  
 
 ---
 
@@ -228,7 +230,7 @@ My goal is to build secure, scalable, and intelligent systems that solve real-wo
 - LinkedIn: https://www.linkedin.com/in/ewemade-enabulele/
 - Instagram : imadeofficial1
 - Email :ewemadeen@gmail.com
-- Whataspp: +234 808 824 2035
+- Whataspp: +234 7037819477
 
 ---
 
