@@ -34,6 +34,8 @@ My goal is to build secure, scalable, and intelligent systems that solve real-wo
 - Python
 - SQL
 - Bash
+- Java
+- Django
 
 ---
 
@@ -49,6 +51,7 @@ My goal is to build secure, scalable, and intelligent systems that solve real-wo
 - CQRS
 - MediatR
 - Linux
+- Java
   
 
 ---
