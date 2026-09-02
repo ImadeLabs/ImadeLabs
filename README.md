@@ -215,6 +215,8 @@ My goal is to build secure, scalable, and intelligent systems that solve real-wo
 # 💡 Career Interests
 
 - Software Engineering
+- .Net
+- Java
 - Cybersecurity
 - Linux Administration
 - System Administration
