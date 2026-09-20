@@ -13,6 +13,7 @@ My goal is to build secure, scalable, and intelligent systems that solve real-wo
 # 🚀 About Me
 
 - 💻 Full Stack Software Engineer
+- Capcut editing, B-rolls videos, Youtuber
 - 🔐 Cybersecurity Enthusiast, QA|TEST AUTOMATION
 - 🐧 Linux & Systems Administrator
 - ☁️ Cloud & DevOps Engineer
